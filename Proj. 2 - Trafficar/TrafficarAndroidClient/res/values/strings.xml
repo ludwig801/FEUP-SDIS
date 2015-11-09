@@ -1,0 +1,69 @@
+<resources>
+
+    <!-- Activity Titles -->
+    <string name="app_name">Trafficar</string>
+    <string name="explore_activity">Explore</string>
+    <string name="following_activity">Following</string>
+    <string name="post_activity">Post Traffic Info</string>
+    <string name="profile_activity">My Account</string>
+    <string name="settings_activity">Settings</string>
+    <string name="retrieve">TEST</string>
+    <string name="username">Enter username</string>
+    <string name="password">Enter password</string>
+    <string name="email">Email:</string>
+    <string name="name">Full name:</string>
+    <string name="location">Location:</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="description">Description:</string>
+    <string name="intensity">Intensity:</string>
+    <string name="category">Category:</string>
+    <string name="confirm_unfollow">Unfollow user?</string>
+    <string name="information_posted">Information posted with success.</string>
+    <string name="totalPostedInformation">Number of Posts:</string>
+    <string name="totalFeedback">Feedback:</string>
+    <string name="yes">Yes</string>
+    <string name="no">Cancel</string>
+    <string name="btnCheck">CHECK</string>
+    <string name="btnSend">Send</string>
+    <string name="btnRefresh">Refresh</string>
+    <string name="btnUsers">Users</string>
+    <string name="btnSearch">Explore</string>
+    <string name="btnProfile">Profile</string>
+    <string name="btnLogout">Logout</string>
+    <string name="btnSave">Save Changes</string>
+    <string name="btnPost">Post</string>
+    <string name="btnMyAccount">My Account</string>
+    <string name="btnFollowing">Who Am I Following?</string>
+    <string name="btnSettings">Settings</string>
+    <string name="btnThanks">Thanks</string>
+    <string name="btnDislike">Dislike</string>
+    <string name="ip_config_hint">Server IP Address&#8230;</string>
+    <string name="port_config_hint">Server Port Number&#8230;</string>
+    <string name="unauthorizedAccess">YOU SHOULD NOT BE HERE!</string>
+    
+    <string name="cancel">Dismiss</string>
+    <string name="thanks">Thanks!</string>
+    <string name="dislike">Dislike</string>
+
+    <!-- Facebook -->
+    <string name="facebook_app_id">1626278184285593</string>
+    <string name="facebook_app_name">Trafficar</string>
+
+    <!-- Arrays -->
+    <string-array name="intensity_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    
+    <string-array name="category_array">
+        <item>Jam</item>
+        <item>Accident</item>
+        <item>Radar</item>
+        <item>Work</item>
+    </string-array>
+
+</resources>
